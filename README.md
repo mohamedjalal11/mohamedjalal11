@@ -77,8 +77,9 @@ Conducted a web application security audit, assessed authentication and session 
 
 ### In Progress
 
-- CRTP — Certified Red Team Professional (preparation)
+- CPTS — Certified Penetration Testing Specialist (preparation)
 - HTB Academy — Penetration Tester Path
+- THM Academy - play CTFs
 
 <br>
 
