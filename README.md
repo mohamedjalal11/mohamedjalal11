@@ -20,7 +20,7 @@ Cybersecurity Engineering Student · Penetration Testing · Cyber Defense · Clo
 - 🎓 Final-year Cybersecurity Engineering student at **ENSIAS**, Morocco, specializing in Cybersecurity, Cloud & Mobile Computing (CSCC).
 - 🔍 Focused on **Web & Active Directory Penetration Testing, Cyber Defense and Cloud Security**.
 - 🧪 Hands-on experience in security auditing, SIEM, Threat Intelligence and security automation.
-- 🌱 Currently preparing for CRTP and developing practical cybersecurity skills through Hack The Box.
+- 🌱 Currently preparing for CPTS and developing practical cybersecurity skills through Hack The Box and Try Hack Me.
 - 🎯 Seeking a final-year cybersecurity internship starting **February 2027**.
 
 <br>
